@@ -6,7 +6,7 @@ Download and install Visual Studio 2019 or Visual Studio 2022
 #
 Download the zipped folder and unzip it OR clone the repository to your local machine
 #
-Open the folder from there using either Visual Studio 2019 or Visual Studio 2022
+Open the folder from within Visual Studio 2019 or Visual Studio 2022
 
 ## 2. To install the dependencies required, run the following commands:
 pip install operator
